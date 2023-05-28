@@ -22,7 +22,7 @@ organizations:
     url: https://eng.csg.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include power system optimization, renewable energy integration and deep learning applications
+bio: My research interests include power system optimization, renewable energy integration and deep learning applications.
 
 # Interests to show in About widget
 interests:
@@ -80,5 +80,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<!-- Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
+Shengpu Gao is a project manager at Shenzhen Power Supply Co., Ltd, China Southern Power Grid. His research interests include power system optimization, renewable energy integration and deep learning applications. He is part of the AI group, which is responsible for the development of the company's AI related systems.
 {style="text-align: justify;"}
