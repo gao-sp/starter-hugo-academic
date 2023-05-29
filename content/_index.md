@@ -51,7 +51,7 @@ sections:
           icon_pack: fab
         - name: Matlab
           description: 90%
-          icon: calculator-simple
+          icon: calculator
           icon_pack: fas
         - name: Gurobi
           description: 80%
