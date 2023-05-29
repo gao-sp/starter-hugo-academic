@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Project Manager of Artificial Intelligence
+role: Project Manager
 
 # Organizations/Affiliations to show in About widget
 organizations:

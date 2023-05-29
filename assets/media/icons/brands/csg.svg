@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="66"
+   height="67"
+   viewBox="0 0 66 67"
+   sodipodi:docname="csg.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="10.838786"
+     inkscape:cx="42.901483"
+     inkscape:cy="14.577278"
+     inkscape:window-width="3698"
+     inkscape:window-height="2126"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <path
+       style="fill:#003579"
+       d="m 34.431362,49.028459 v -5.952996 l -3.75,-1.101729 C 28.61886,41.367783 21.424476,40.177291 14.68136,40.004459 L 2.4313607,39.690482 v -2.354514 -2.354513 l 7.2499998,0.02011 c 7.0984425,0.01969 16.5241105,1.087123 22.0000015,2.491453 l 2.75,0.705256 V 36.17273 34.147186 l -5.216034,-1.118638 c -2.868818,-0.615252 -10.059737,-2.111187 -16,-2.196959 L 2.4313607,30.675878 v -2.475865 -2.475864 l 10.8197283,0.307003 c 6.602641,0.187346 11.000796,1.113432 15.452428,2.226342 l 5.832095,1.458025 0.008,-2.243837 0.008,-1.460975 -5.619772,-1.679586 -6.199396,-1.043031 -9.688996,-0.671953 -10.6116073,0.0424 v -2.177086 -2.5 l 10.8396893,0.04613 c 8.778738,0.03736 15.382905,0.935674 19.410312,2.491712 l 1.75,0.676135 v -4.10699 -4.106989 h 3 3 v 5.5 5.5 h 9 9 v 2.5 2.5 h -9 -9 v 1.5 1.5 h 9 9 v 2.5 2.5 h -9 -9 v 2 2 h 9 9 v 2.5 2.5 h -9 -9 v 2 2 h 9 9 v 2.5 2.5 h -12 -12 z"
+       id="path511"
+       sodipodi:nodetypes="ccsscccsscccsscccsscccccccccsscccccccccccccccccccccccccccccccccccccc" />
+  </g>
+</svg>
